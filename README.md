@@ -9,4 +9,4 @@
 -	And, I am interested in a delivery management role in the areas of Data Science/Machine Learning 
 -	Previously associated with Tata Consultancy Services (TCS) and Tata Infotech Ltd (TIL) as Consultant
 -	You can reach me through balasubramanian.chandran@gmail.com and +91-9444004947
-- LinkedIn profile linkedin.com/in/balasubramanian-chandran-70a4b2176
+- LinkedIn profile https://www.linkedin.com/in/balasubramanian-chandran-70a4b2176/ 
