@@ -5,10 +5,10 @@
 -	I have worked in 5 different domains such as telephone (~12 yrs), banking (~2.5 yrs), insurance (~2.5 yrs), manufacturing (~1 yr), and BPO (~0.5 yr)
 -	I have extensive knowledge and usage of PM methodologies and quality approaches in projects
 -	I have been learning and developing projects in data science, machine learning, and visualizations
-- I have written the following whitepapers and published them on GitHub 
+-  I have written the following whitepapers and published them on GitHub 
    1. Data Science Project Management Methodology - A Guideline for Beginners
    2.	Machine Learning Project Guidelines - For Beginners 
--	I have written the following books and published them on GitHub
+-  I have written the following books and published them on GitHub
    1. Machine Learning Project Guidelines - For Beginners 
    2. Data Visualization Reference Guide - For Beginners
 - I have developed 11 projects (8 in Machine Learning and 3 in Visualizations) and published them on GitHub
