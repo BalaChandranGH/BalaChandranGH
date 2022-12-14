@@ -2,13 +2,13 @@
 - 10+ years of onsite working experience in the USA & the UK (about 7 years in the USA and over 3+ years in the UK) 
 - Competent, well-organized, process-oriented, and an effective leader with proven abilities - successfully managed and delivered over 50 projects  for clients in the USA and the UK using an onsite-offshore delivery model 
 - Written the following whitepapers and published them on GitHub 
-1.	Data Science Project Management Methodology - A Guideline for Beginners
-2.	Machine Learning Project Guidelines - For Beginners 
-3.	Agile Estimation Guidelines – For Beginners
-4.	Agile Metrics Guidelines – For Beginners
+     1.	Data Science Project Management Methodology - A Guideline for Beginners
+     2.	Machine Learning Project Guidelines - For Beginners 
+     3.	Agile Estimation Guidelines – For Beginners
+     4.	Agile Metrics Guidelines – For Beginners
 - Written the following books and published them on GitHub
-1.	Machine Learning Project Guidelines - For Beginners 
-2.	Data Visualization Reference Guide - For Beginners
+     1.	Machine Learning Project Guidelines - For Beginners 
+     2.	Data Visualization Reference Guide - For Beginners
 - Developed 11 projects (8 in Machine Learning and 3 in Visualizations) and published them on GitHub
 - Constructively developed tools to generate 10 agile metrics with advanced and appealing visualizations
 - Previously associated with Tata Consultancy Services (TCS) & Tata Infotech Ltd (TIL) as a Consultant
