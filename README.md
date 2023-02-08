@@ -1,6 +1,7 @@
-- Certified professional in Project Management (PMP), Data Science, Machine Learning, and Big Data with over two decades of hands-on experience in the areas of E2E Delivery Management, Program Management, Client Relationship Management, Account Management, Vendor Management, Sales/Presales, Effort & Cost estimations, Business Development, Team Management, Scope Management, Risk Management, Quality Management, etc.
+- Certified professional in Project Management (PMP), Data Science, Machine Learning, and Big Data with over two decades of hands-on experience in the areas of E2E Delivery Management, Program Management, Client Relationship Management, Account Management, Vendor Management, Sales/Presales, Effort & Cost estimations, Business Development, Team Management, Scope Management, Risk Management, Quality Management, Change Management, etc.
 - 10+ years of onsite working experience in the USA & the UK (about 7 years in the USA and over 3+ years in the UK) 
-- Competent, well-organized, process-oriented, and an effective leader with proven abilities - successfully managed and delivered over 50 projects  for clients in the USA and the UK using an onsite-offshore delivery model 
+- Competent, well-organized, process-oriented, and an effective leader with proven abilities - managed and delivered over 50 projects  for clients in the USA and the UK using a multi-disciplined onsite-offshore delivery model 
+- Experienced in managing digital projects
 - Written the following whitepapers and published them on GitHub 
      1.	Data Science Project Management Methodology - A Guideline for Beginners
      2.	Machine Learning Project Guidelines - For Beginners 
